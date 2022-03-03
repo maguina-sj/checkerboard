@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+td {
+    height: 40px;
+    width: 40px;
+}
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
